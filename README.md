@@ -17,4 +17,4 @@ Application is created by using Material Design Theme
 ![Winner choosen](https://github.com/aleksandargasevic/lotteryDraw/blob/master/Screenshots/2.png)
 
 # Contribting
-Feel free to contribute on this project and add funcionalities, pay attention to follow MVVM pattern. 
+Feel free to contribute on this project and add functionalities, pay attention to follow MVVM pattern. 
