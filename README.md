@@ -10,11 +10,11 @@ Application is created by using Material Design Theme
 
 2. Load Text file containing Names separated by new row
 
-![App Start](https://github.com/aleksandargasevic/lotteryDraw/blob/master/Screenshots/1.png)
+![Loaded names](https://github.com/aleksandargasevic/lotteryDraw/blob/master/Screenshots/1.png)
 
 3. Choose how many winners are you want to be drawn at the first circle, those winners are removed from the list.
 
-![App Start](https://github.com/aleksandargasevic/lotteryDraw/blob/master/Screenshots/2.png)
+![Winner choosen](https://github.com/aleksandargasevic/lotteryDraw/blob/master/Screenshots/2.png)
 
 # Contribting
 Feel free to contribute on this project and add funcionalities, pay attention to follow MVVM pattern. 
